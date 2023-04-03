@@ -4,11 +4,14 @@
 	background-color:lightblue;
 	text-align:center;
 	border:2px solid black;
-	width:200px;
-	hight:200px;
-	position:center
+	
+	position:center;
+	padding:50px 20px 50px 20px;
 	
 }
 div{
 	color: darkviolet;
+	font:px;
+	width:300px;
+	hight:300px;
 }
