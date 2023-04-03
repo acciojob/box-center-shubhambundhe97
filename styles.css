@@ -1,9 +1,14 @@
 /*  your css code here. If applicable */
 .box{
+	
 	background-color:lightblue;
 	text-align:center;
-	border:3px solid;
+	border:2px solid black;
 	width:200px;
 	hight:200px;
 	position:center
+	
+}
+div{
+	color: darkviolet;
 }
